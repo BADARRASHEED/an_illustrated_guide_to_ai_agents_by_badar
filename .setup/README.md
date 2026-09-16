@@ -62,6 +62,11 @@ tinyagent
 
 ![../images/tinyagent_terminal.png](../images/tinyagent_terminal.png)
 
+To uninstall `TinyAgent` use the following command:
+```bash
+uv tool uninstall illustrated-agents
+```
+
 # Chapters
 
 Each chapter can be run with the following options:
