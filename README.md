@@ -38,27 +38,6 @@ All examples can be run in Google Colab for **free** using their T4 GPU. You hav
 > [!TIP]
 > You can check the [setup](.setup/) folder for a quick-start guide to install all packages locally.
 
-
-## Reviews
-
-> "*The authors are exceptional builders, and this book is a testament to the depth of their knowledge. The generous illustrations and hands-on TinyAgent exercise make the concepts approachable, intuitive, and fun to learn.*"
->    
-> **Chip Huyen** - author of [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) and [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
-
----
-
-> "*I have thought a lot about how to teach AI systems, and this book still surprised me with how much of the domain of modern AI agents it could make clear through illustrations. Maarten and Jay do an impressive job identifying and explaining the timeless ideas in this fast-moving field, and I expect this to become the first book I recommend to anyone who wants to understand how modern agents work and how to build them.*"
->
-> **Omar Khattab** - assistant professor, MIT EECS.
-
----
-
-> "*Grootendorst and Alammar explain the entire AI agent stack, from tokenization to multiagent systems, in an engaging visual style. As the field evolves, this book will continue to serve as a useful reference because it covers the subject matter so thoroughly.*"
->
-> **Ofir Press** - research scientist at Meta FAIR, coauthor of SWE-bench and SWE-agent.
-
----
-
 ## A Unique Way of Learning
 
 We wanted to do something special this time around and allow readers to **Build an Agent From Scratch**! However, we did not stop there and wanted the act of building the Agent to be a modular experience that enhances the learning experience. By iteratively adding components, one at a time, it becomes much more intuitive how an Agent actually works.
@@ -76,20 +55,3 @@ Through a philosophy centered around modularity, each chapter can neatly cover a
 As we are building up your `TinyAgent` there might be many code changes happening in certain chapters. To illustrate the effect of these changes on your `TinyAgent`, we made use of diffs as a way to ease the learning curve.
 
 ![images/diffs.png](images/diffs.png)
-
-
-## Citation
-
-Please consider citing the book if you consider it useful for your research:
-
-```
-@book{illustrated-agents-book,
-  author       = {Maarten Grootendorst and Jay Alammar},
-  title        = {An Illustrated Guide to AI Agents},
-  publisher    = {O'Reilly},
-  year         = {2026},
-  isbn         = {979-8341662698},
-  url          = {https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/},
-  github       = {https://github.com/HandsOnLLM/An-Illustrated-Guide-To-AI-Agents}
-}
-```
