@@ -15,7 +15,9 @@ requires-python = ">=3.12"
 license = "MIT"
 license-files = ["LICENSE"]
 
-dependencies = []
+dependencies = [
+    "rich>=15.0.0",
+]
 
 [project.optional-dependencies]
 terminal = ["rich>=14.3.2"]
